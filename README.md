@@ -16,7 +16,7 @@ An all-in-one Social Media website for students to communicate, contribute and p
 - Back-End -  Python,Flask
 
 ## Some info
-The website still has bugs and i am working on them to fix them. Please do let me know if you find any bugs which are nt fixed yet
+The website still has bugs and i am working on them to fix them. Please do let me know if you find any bugs which are not fixed yet
 
 ### Visit the website at 
 
